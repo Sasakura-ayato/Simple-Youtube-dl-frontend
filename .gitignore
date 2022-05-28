@@ -1,0 +1,11 @@
+# Python
+__pycache__
+
+# テストデータの残る事故防止
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.part
+
+

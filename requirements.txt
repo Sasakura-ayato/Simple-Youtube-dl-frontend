@@ -1,0 +1,3 @@
+youtube_dl
+ffmpeg-python
+google-api-python-client
